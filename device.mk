@@ -232,8 +232,8 @@ PRODUCT_PACKAGES += \
     libhwbinder.vendor
 
 # HW crypto
-PRODUCT_PACKAGES += \
-    vendor.qti.hardware.cryptfshw@1.0-service-qti.qsee
+#PRODUCT_PACKAGES += \
+#    vendor.qti.hardware.cryptfshw@1.0-service-qti.qsee
 
 # IDC
 PRODUCT_COPY_FILES += \
