@@ -148,4 +148,4 @@
 /firmware(/.*)?         u:object_r:firmware_file:s0
 
 # dsp
-/dsp(/.*)?               u:object_r:adsprpcd_file:s0
+# /dsp(/.*)?               u:object_r:adsprpcd_file:s0
